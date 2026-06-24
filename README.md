@@ -26,3 +26,13 @@ This project demonstrates an incremental data load pattern using watermark logic
 
 <img width="1115" height="692" alt="image" src="https://github.com/user-attachments/assets/03f18aad-83c4-497e-b8d8-37738d5fbee5" />
 
+<img width="565" height="340" alt="image" src="https://github.com/user-attachments/assets/32ea5167-8da8-4a20-903d-cc8947ff6bf9" />
+<img width="670" height="262" alt="image" src="https://github.com/user-attachments/assets/46dafde3-ed07-440e-bbf4-be80e5937232" />
+# OnPrem Ingestion:
+<img width="1246" height="390" alt="image" src="https://github.com/user-attachments/assets/a64e58ac-5ebb-40fc-9ba9-95dbd924bcd9" />
+
+# Web API - GitHub Ingestion
+<img width="1206" height="371" alt="image" src="https://github.com/user-attachments/assets/108b35c9-c54d-4cc4-a56b-c047016a4b30" />
+
+
+
