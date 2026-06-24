@@ -23,3 +23,6 @@ This project demonstrates an incremental data load pattern using watermark logic
 ## Key Learning
 - Keep a empty.json file and overide latestLoad max value to it after the copy activity is successfully complete using another copy activity
 - If the empty.json already has the existing column to be overriden, duplicate value error will be thrown.
+
+<img width="1115" height="692" alt="image" src="https://github.com/user-attachments/assets/03f18aad-83c4-497e-b8d8-37738d5fbee5" />
+
