@@ -1,0 +1,15 @@
+{
+	"name": "trivenipdatafactory",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "031ac0a7-c310-4534-a5aa-0a9a21629457",
+		"tenantId": "9fe80dc2-c07e-40d1-8576-2af1346f7d46"
+	}
+}
